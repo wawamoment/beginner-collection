@@ -3,6 +3,12 @@ import "fmt"
 
 // first Go project! -- 12.06.2026 -- 21.04 V1 -|- 13.06.2026 -- 15.32 -- V2
 
+/*
+13.06.2026 - 17.15
+	This is a very basic calculator, one which is my first project on Go.
+	I plan on adding more calculations soon, maybe.
+*/
+
 func add(n1, n2 int) int {
 	addi := n1+n2
 	return addi
